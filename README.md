@@ -4,3 +4,9 @@ A collection of JupyterNotebooks/scripts for rapid physics results or prototypin
 
 # Ntuplizer
 # Tutorials 
+
+# Labelling 
+
+As of now, there are two classes of notebooks:
+* Histogram Fillers 
+* Plotters
